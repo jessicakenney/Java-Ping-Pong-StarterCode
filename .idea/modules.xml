@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java-Ping-Pong-StarterCode.iml" filepath="$PROJECT_DIR$/Java-Ping-Pong-StarterCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Ping-Pong-StarterCode_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Ping-Pong-StarterCode_main.iml" group="Java-Ping-Pong-StarterCode" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java-Ping-Pong-StarterCode_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Java-Ping-Pong-StarterCode_test.iml" group="Java-Ping-Pong-StarterCode" />
+    </modules>
+  </component>
+</project>
